@@ -2,6 +2,7 @@ footer {
     width: 100%;
     background-color: rgb(255, 187, 0);
     color: white;
+    height: -50%
 }
 p{
     padding-top: 10px;
